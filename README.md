@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/belaeat)
 <h1 align="center">Hi 👋, I'm MD. BEALEAT HOSSAIN</h1>
-<h3 align="center">A passionate full-stack (MERN) web developer not from Computer Science background! ;)</h3>
+<h3 align="center">A passionate full-stack (MERN) web developer not from a Computer Science background! ;)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belaeat&label=Profile%20views&color=0e75b6&style=flat" alt="belaeat" /> </p>
