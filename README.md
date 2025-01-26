@@ -1,13 +1,13 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/belaeat)
-<h1 align="center">Hi 👋, I'm MD. BEALEAT HOSSAIN</h1>
-<h3 align="center">A passionate full-stack (MERN) web developer not from a Computer Science background! 😉</h3>
+<h1 align="center">Hi 👋, I'm MD BEALEAT HOSSAIN</h1>
+<h3 align="center">A passionate full-stack web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belaeat&label=Profile%20views&color=0e75b6&style=flat" alt="belaeat" /> </p>
 
-- 💬 Ask me about **MERN (MongoDB, Express, React, Node) stack!**
+- 💬 Ask me about the **MERN (MongoDB, Express, React, Node) stack!**
 
-- 📫 How to reach me **belaeat.dev@gmail.com**
+- 📫 How to reach me **belaeat007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
